@@ -7,6 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "google-genai>=1.67.0",
     "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
     "matplotlib>=3.10.8",
     "numpy>=2.4.3",
     "pillow>=12.1.1",
@@ -14,5 +15,6 @@ dependencies = [
     "timm>=1.0.25",
     "torch>=2.10.0",
     "torchvision>=0.25.0",
+    "transformers>=5.3.0",
     "uv>=0.10.10",
 ]
